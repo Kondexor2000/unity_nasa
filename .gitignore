@@ -1,0 +1,56 @@
+# Unity-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+sysinfo.txt
+
+# IDE and editor files
+.vs/
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Build artifacts
+*.apk
+*.aab
+*.app
+*.unitypackage
+*.assetbundle
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.secret
+secrets.*
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+*.key
+*.mobileprovision
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
