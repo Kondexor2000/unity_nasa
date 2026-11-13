@@ -1,0 +1,13 @@
+{
+  "name": "NASA.OrbitalSimulation.Tests",
+  "references": [
+    "NASA.OrbitalSimulation"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}
